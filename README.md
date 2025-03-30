@@ -28,11 +28,11 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ibm-data-science-internship.git
+   git clone https://github.com/LouaiMuhammed/IBM-Data-Science-DEPI.git
    ```
 2. Navigate to the repository:
    ```bash
-   cd ibm-data-science-internship
+   cd IBM-Data-Science-DEPI
    ```
 3. Open Jupyter Notebook:
    ```bash
