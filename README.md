@@ -11,13 +11,7 @@ The repository includes assignments and projects utilizing the following technol
 - **Scikit-learn**: Machine learning models and evaluation
 - **Other ML Libraries**: TensorFlow, PyTorch (if applicable)
 
-## Folder Structure
-```
-📂 IBM-Data-Science-Internship
-│── 📂 Machine Learning Assignments
-│   ├── Assignment 1 - Unlocking Statistical Insights with Python.ipynb
-│── README.md
-```
+
 
 ## Requirements
 To run the assignments locally, install the following dependencies:
